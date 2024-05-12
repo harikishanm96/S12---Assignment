@@ -246,3 +246,28 @@
      49/49     11.8G      1.15     0.461         0      1.61         9       512: 100% 7/7 [00:08<00:00,  1.21s/it]
                Class    Images   Targets         P         R   mAP@0.5        F1: 100% 7/7 [00:02<00:00,  3.03it/s]
                  all       100       100     0.985         1     0.995     0.992
+
+
+## YOLOV3 output for 10 images of race car custom dataset -
+
+![race-car-7611751_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/ca9116c6-8268-4bb2-889d-91f7239212fb)
+![car-racing-8728913_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/57495836-9795-4845-85c2-cdda9335279e)
+![car-racing-8728910_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/75744063-8e27-4ca9-8c61-7b4ea141b425)
+![car-racing-8724434_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/07df4fde-6c5c-480a-a726-c914342537ee)
+![car-racing-8724433_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/92f21844-a681-473c-8a0f-66396ca73b7d)
+![car-racing-7630651_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/1da9ad2d-bbdd-4138-8b67-91d1869eec59)
+![car-racing-7630630_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/dca991d5-bc35-486f-97b0-a86744237205)
+![car-racing-6540687_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/fb611633-33df-4b11-8e10-65b5cd56e3f6)
+![car-8136735_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/88cdbc12-4263-4343-b096-5b10aac23598)
+![car-7816282_1280](https://github.com/harikishanm96/S12---Assignment/assets/53985105/203300e0-a5ed-4492-9559-306f9548eb9f)
+
+
+
+
+
+
+
+
+
+
+
